@@ -1,16 +1,14 @@
-### Hi there 👋
+<p><img src="./img/gitCover.png"/></p>
 
-<!--
-**toledkrw/toledkrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! I'm Toledo and I'm pleased to meet you! 😋
 
-Here are some ideas to get you started:
+*I am currently a Software Engineering student at UniAcademia, in Brazil 🇧🇷. I do enjoy Frontend development and I do like Backend too; I mean, a good software or application is not just about a pretty face!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Little things about me:
+
+- 🔭 I’m currently working on a personal project with my university friends and I hope we all get success on it!
+- 🌱 I’m currently learning Python, Javascript and Reactjs !
+- 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/toledo2k).
+- ⚡ Fun fact: I'm very into Retrowave, Synthwave and Outrun music style, also I'm THAT D&D and Cyberpunk genre fan lol 🤣
+
+<!-- mdVersion: 1.01 -->
