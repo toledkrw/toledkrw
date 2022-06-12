@@ -8,7 +8,7 @@ _I am, currently, a Software Engineering student at UniAcademia, in Brazil, and 
 <div id="main">
     <!-- <a href="https://github.com/toledkrw"> -->
     <img id="stats" src="https://github-readme-stats.vercel.app/api?username=toledkrw&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-    <div id="langs">
+    <!-- <div id="langs">
         <h3>Known tecnologies</h3>
         <div id="iconsWrap">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" title="Photoshop">
@@ -28,7 +28,7 @@ _I am, currently, a Software Engineering student at UniAcademia, in Brazil, and 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="Apache Technologies">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" title="Scala">
         </div>
-    </div>
+    </div> -->
 </div>
 
 ## Little things about me:
@@ -38,7 +38,7 @@ _I am, currently, a Software Engineering student at UniAcademia, in Brazil, and 
 - ⚡ Fun fact: I'm very into Retrowave, Synthwave and Outrun music style, also I'm THAT D&D and Cyberpunk genre fan lol 🤣
 
 <!-- CSS section -->
-<style>
+<!-- <style>
     #main{
         display: flex;
         flex-direction: column;
@@ -72,4 +72,4 @@ _I am, currently, a Software Engineering student at UniAcademia, in Brazil, and 
         max-width: 3vw;
         max-height:3vh;
     }
-</style>
+</style> -->
