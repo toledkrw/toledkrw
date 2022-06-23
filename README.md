@@ -17,14 +17,15 @@
       a pretty face!
     </p>
   </div>
+  <p align="center"> <!--esse P não é de paragrafo, é de pivete gambiarrento mesmo-->
   <img
     id="stats"
-		style="width:50%"
     src="https://github-readme-stats.vercel.app/api?username=toledkrw&show_icons=true&theme=nightowl&    include_all_commits=true&count_private=true"
   />
+  </p>
   <div
     id="langs"
-    style="width:50%"
+    width="50%"
   >
     <h3 style="margin-left: 1vw; font-size: 2vw">Known tecnologies</h3>
     <div
