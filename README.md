@@ -18,17 +18,21 @@
     </p>
   </div>
   <p align="center"> <!--esse P não é de paragrafo, é de pivete gambiarrento mesmo-->
-  <img
-    id="stats"
-    src="https://github-readme-stats.vercel.app/api?username=toledkrw&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"
-    alt="Toledo's GitHub stats."
-    width="50%"
-  /><br/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=toledkrw&layout=compact&langs_count=16&theme=dark"
-    alt="Toledo's most used languages."
-    width="50%"
-  />
+    <div width="100%">
+        <img
+          id="stats"
+          src="https://github-readme-stats.vercel.app/api?username=toledkrw&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"
+          alt="Toledo's GitHub stats."
+          width="50%"
+          height="150vh"
+        />
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=toledkrw&layout=compact&langs_count=16&theme=dark"
+          alt="Toledo's most used languages."
+          width="45%"
+          height="150vh"
+        />
+    </div>
   </p>
   <div
     id="langs"
