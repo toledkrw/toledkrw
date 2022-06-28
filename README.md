@@ -27,7 +27,7 @@
     id="langs"
     width="50%"
   >
-    <h3 style="margin-left: 1vw; font-size: 2vw">Known tecnologies</h3>
+    <h3 style="margin-left: 1vw; font-size: 2vw">Known technologies</h3>
     <div
       id="iconsWrap"
       style="
