@@ -17,8 +17,7 @@
       a pretty face!
     </p>
   </div>
-  <p align="center"> <!--esse P não é de paragrafo, é de pivete gambiarrento mesmo-->
-    <div width="100%">
+    <div align="center">
         <img
           id="stats"
           src="https://github-readme-stats.vercel.app/api?username=toledkrw&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"
@@ -35,7 +34,6 @@
           height="150vh"
         />
     </div>
-  </p>
   <div
     id="langs"
     width="50%"
