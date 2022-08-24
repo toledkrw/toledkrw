@@ -21,15 +21,17 @@
     <div width="100%">
         <img
           id="stats"
-          src="https://github-readme-stats.vercel.app/api?username=toledkrw&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"
+          src="https://github-readme-stats.vercel.app/api?username=toledkrw&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"
           alt="Toledo's GitHub stats."
-          width="50%"
+          padding="10px"
+          width="auto"
           height="150vh"
         />
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=toledkrw&layout=compact&langs_count=16&theme=dark"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=toledkrw&layout=compact&langs_count=16&theme=vision-friendly-dark"
           alt="Toledo's most used languages."
-          width="45%"
+          padding="10px"
+          width="auto"
           height="150vh"
         />
     </div>
@@ -38,7 +40,7 @@
     id="langs"
     width="50%"
   >
-    <h3 style="margin-left: 1vw; font-size: 2vw">Known tecnologies</h3>
+    <h3 style="font-size: 2vw">Known tecnologies</h3>
     <div
       id="iconsWrap"
       style="
@@ -134,17 +136,15 @@
     </div>
   </div>
 </div>
+<h1></h1> <!-- >Sim, gambiarra estilosa, parabéns por ter descoberto que o <h1> no MD é mais bonitinho que um <hr/> como divisória<-->
+ <div align="center">
+    <a target='_blank' href="https://www.linkedin.com/in/toledo2k/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
 <h2>Little things about me:</h2>
   <ul>
-    <li>
-      📫 How to reach me:
-      <a href="https://www.linkedin.com/in/toledo2k" alt="Linkedin"
-        ><img
-          style="width: 18px; height: 15px; align: center"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-      /></a>
-    </li>
     <li>
       🌱 I’m always learning Python, Javascript (as well as React), Spark and
       much more!
