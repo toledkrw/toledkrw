@@ -9,7 +9,7 @@
   "
 >
   <div>
-    <h1>Hello! I'm Toledo and I'm pleased to meet you! 😋</h1>
+    <h1>Hello! My name is Toledo and I'm pleased to meet you! 😋</h1>
     <p>
       I am, currently, a Software Engineering student at UniAcademia, in Brazil,
       and I'm also working as a Data Engineer. I quite enjoy Frontend
@@ -47,87 +47,86 @@
         flex-wrap: wrap;
         align-items: center;
         justify-content: space-around;
-        width: 100%;
         margin: 5px;
       "
     >
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"
         title="Photoshop"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
         title="HTML5"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
         title="CSS3"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
         title="JavaScript"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"
         title="JQuery"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
         title="ReactJS"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
         title="GIT"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
         title="C#"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
         title="Java"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
         title="Spring"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         title="Python"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"
         title="Jupyter Notebooks"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
         title="Pandas"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
         title="NumPy"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"
         title="Apache Technologies"
       />
       <img
-        style="margin: 10px; width: 3vw; height: 3vh"
+        style="margin: 10px; width: auto; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"
         title="Scala"
       />
