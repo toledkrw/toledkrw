@@ -56,6 +56,21 @@
       />
       <img
         style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
+        title="Trello"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"
+        title="Microsoft Azure"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
+        title="Amazon Web Services (AWS)"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
         title="HTML5"
       />
@@ -71,6 +86,11 @@
       />
       <img
         style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        title="TypeScript"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"
         title="JQuery"
       />
@@ -81,8 +101,23 @@
       />
       <img
         style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+        title="NextJS"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+        title="NestJS"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
         title="GIT"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+        title="C++"
       />
       <img
         style="margin: 10px; min-width: 10px; height: 3vh"
@@ -118,6 +153,11 @@
         style="margin: 10px; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
         title="NumPy"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"
+        title="Open Computer Vision (OpenCV)"
       />
       <img
         style="margin: 10px; min-width: 10px; height: 3vh"
