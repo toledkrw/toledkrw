@@ -57,7 +57,12 @@
       <img
         style="margin: 10px; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
-        title="Trello"
+        title="Figma"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+        title="GIT"
       />
       <img
         style="margin: 10px; min-width: 10px; height: 3vh"
@@ -108,11 +113,6 @@
         style="margin: 10px; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
         title="NestJS"
-      />
-      <img
-        style="margin: 10px; min-width: 10px; height: 3vh"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-        title="GIT"
       />
       <img
         style="margin: 10px; min-width: 10px; height: 3vh"
