@@ -37,7 +37,7 @@
   <div
     id="langs"
   >
-    <h3 style="font-size: 2vw">Known tecnologies</h3>
+    <h3>Known tecnologies</h3>
     <div
       id="iconsWrap"
       style="
@@ -53,6 +53,11 @@
         style="margin: 10px; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"
         title="Photoshop"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg"
+        title="XD"
       />
       <img
         style="margin: 10px; min-width: 10px; height: 3vh"
@@ -136,6 +141,11 @@
       />
       <img
         style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"
+        title="Scala"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         title="Python"
       />
@@ -166,20 +176,20 @@
       />
       <img
         style="margin: 10px; min-width: 10px; height: 3vh"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"
-        title="Scala"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"
+        title="Terraform"
       />
     </div>
   </div>
 </div>
 <h1></h1> <!-- >Sim, gambiarra estilosa, parabéns por ter descoberto que o <h1> no MD é mais bonitinho que um <hr/> como divisória<-->
- <div align="center">
-    <a target='_blank' href="https://www.linkedin.com/in/toledo2k/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a target='_blank' href="https://dev.to/toledkrw">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-    </a>
+<div align="center">
+  <a target='_blank' href="https://www.linkedin.com/in/toledo2k/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a target='_blank' href="https://dev.to/toledkrw">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+  </a>
 </div>
 
 <h2>Little things about me:</h2>
@@ -197,3 +207,9 @@
       also I'm THAT D&D and Cyberpunk genre fan lol 🤣
     </li>
   </ul>
+
+<div align="right">
+
+![Profile views](https://gpvc.arturio.dev/toledkrw)
+
+</div>
