@@ -177,6 +177,9 @@
     <a target='_blank' href="https://www.linkedin.com/in/toledo2k/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+    <a target='_blank' href="https://dev.to/toledkrw">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    </a>
 </div>
 
 <h2>Little things about me:</h2>
