@@ -11,10 +11,8 @@
   <div>
     <h1 style="font-size: 3vw">Hello! My name is Toledo and I'm pleased to meet you! 😋</h1>
     <p>
-      I am, currently, a Software Engineering student at UniAcademia, in Brazil,
-      and I'm also working as a Data Engineer. I quite enjoy Frontend
-      development as well as Backend; I mean, a good software is not just about
-      a pretty face!
+      I'm a Software Engineering student and I work as a Data Engineer.<br/>
+      I'm experienced with data workflows and I also have experience developing frontend applications (web and mobile) as well as backend too.
     </p>
   </div>
     <div align="center">
@@ -37,7 +35,7 @@
   <div
     id="langs"
   >
-    <h3>Known tecnologies</h3>
+    <h3>Known stacks</h3>
     <div
       id="iconsWrap"
       style="
@@ -72,6 +70,11 @@
       <img
         style="margin: 10px; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"
+        title="Microsoft Azure"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/16002836894132567677717491881160.png"
         title="Microsoft Azure"
       />
       <img
