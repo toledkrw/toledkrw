@@ -75,7 +75,7 @@
       <img
         style="margin: 10px; min-width: 10px; height: 3vh"
         src="https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/16002836894132567677717491881160.png"
-        title="Microsoft Azure"
+        title="Databricks"
       />
       <img
         style="margin: 10px; min-width: 10px; height: 3vh"
