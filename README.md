@@ -65,7 +65,55 @@
 <!--  -->
 <div id="stacks">
   <h3>Known stacks</h3>
-  <div style="margin-left: 2vw">
+  <div style="margin-left: 20px; display:flex; flex-direction:column;">
+    <div>
+      <h4>Programming Languages</h4>
+      <div
+        style="
+          display: flex;
+          flex-direction: row;
+          flex-wrap: wrap;
+          justify-content: start;
+          margin: 5px;
+        "
+      >
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+          title="JavaScript"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+          title="TypeScript"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+          title="C++"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+          title="C#"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"
+          title="Scala"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+          title="Python"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+          title="Java"
+        />
+      </div>
+    </div>
     <div>
       <h4>Prototyping Tools</h4>
       <div
