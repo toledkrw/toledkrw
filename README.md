@@ -112,6 +112,11 @@
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
           title="Java"
         />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+          title="ShellScript"
+        />
       </div>
     </div>
     <div>
@@ -159,6 +164,21 @@
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
           title="GIT"
         />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+          title="GitHub"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"
+          title="BitBucket"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
+          title="GitLab"
+        />
       </div>
     </div>
     <!--  -->
@@ -192,6 +212,64 @@
     </div>
     <!--  -->
     <div>
+      <h4>Infrastructure Platforms</h4>
+      <div
+        style="
+          display: flex;
+          flex-direction: row;
+          flex-wrap: wrap;
+          justify-content: start;
+          margin: 5px;
+        "
+      >
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"
+          title="Terraform"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+          title="Docker"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"
+          title="Heroku"
+        />
+      </div>
+    </div>
+    <!--  -->
+    <div>
+      <h4>Databases</h4>
+      <div
+        style="
+          display: flex;
+          flex-direction: row;
+          flex-wrap: wrap;
+          justify-content: start;
+          margin: 5px;
+        "
+      >
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+          title="MySQL"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+          title="MongoDB"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://cdn.cdnlogo.com/logos/h/98/hbase.svg"
+          title="HBase"
+        />
+      </div>
+    </div>
+    <!--  -->
+    <div>
       <h4>Web Development</h4>
       <div
         style=
@@ -212,6 +290,21 @@
         style="margin: 10px; min-width: 10px; height: 3vh"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
         title="CSS3"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+        title="Sass"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg"
+        title="DevIcon!"
+      />
+      <img
+        style="margin: 10px; min-width: 10px; height: 3vh"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
+        title="Bootstrap"
       />
       </div>
       <div style="margin-left: 20px">
@@ -298,8 +391,8 @@
           />
           <img
             style="margin: 10px; min-width: 10px; height: 3vh"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"
-            title="Terraform"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg"
+            title="Kaggle"
           />
         </div>
       </div>
