@@ -9,13 +9,14 @@
   "
 >
   <div>
-    <h1 style="font-size: 3vw">Hello! My name is Toledo and I'm pleased to meet you! 😋</h1>
+    <h1 style="font-size: 3vw">Hello! Pleased to meet you, my name is Toledo!</h1>
     <p>
       I'm a Software Engineering student and I work as a Data Engineer.<br/>
       I'm experienced with data workflows and I also have experience developing frontend applications (web and mobile) as well as backend too.
     </p>
   </div>
   <!--  -->
+  
   <div align="center">
       <img
         id="stats"
@@ -34,7 +35,7 @@
       />
   </div>
   <!--  -->
-  <h1></h1> <!-- >Sim, gambiarra estilosa, parabéns por ter descoberto que o <h1> no MD é mais bonitinho que um <hr/> como divisória<-->
+
   <div align="center">
     <a target='_blank' href="https://www.linkedin.com/in/toledo2k/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -44,25 +45,25 @@
     </a>
   </div>
   <!--  -->
+
   <div>
     <h2>Little things about me:</h2>
     <ul>
       <li>
-        🌱 I’m always learning Python, Javascript (as well as React), Spark and
-        much more!
-      </li>
-      <li>
-        🔭 I’m always working on personal projects with my college friends and I
+        👨‍🎓 I’m always working on personal projects with my college friends and I
         hope we all get success on them!
       </li>
       <li>
-        ⚡ Fun fact: I'm very into Retrowave, Synthwave and Outrun music style,
-        also I'm THAT D&D and Cyberpunk genre fan lol 🤣
+        🎧 I'm very into Synth and Retrowave.
+      </li>
+      <li>
+        🐲 I like animes and mangás.
       </li>
     </ul>
   </div>
 </div>
 <!--  -->
+
 <div id="stacks">
   <h3>Known stacks</h3>
   <div style="margin-left: 20px; display:flex; flex-direction:column;">
@@ -301,11 +302,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg"
         title="DevIcon!"
       />
-      <img
-        style="margin: 10px; min-width: 10px; height: 3vh"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-        title="Bootstrap"
-      />
       </div>
       <div style="margin-left: 20px">
         <h5>Libraries</h5>
@@ -329,6 +325,11 @@
         <h5>Frameworks</h5>
         <img
           style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
+          title="Bootstrap"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
           title="NextJS"
         />
@@ -341,6 +342,11 @@
           style="margin: 10px; min-width: 10px; height: 3vh"
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
           title="Spring"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
+          title="Selenium"
         />
       </div>
     </div>
