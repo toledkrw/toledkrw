@@ -180,6 +180,11 @@
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
           title="GitLab"
         />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://user-images.githubusercontent.com/15386828/118396592-e331c880-b658-11eb-8fdc-7426520c691f.png"
+          title="SonarQube"
+        />
       </div>
     </div>
     <!--  -->
@@ -208,6 +213,11 @@
           style="margin: 10px; min-width: 10px; height: 3vh"
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
           title="Amazon Web Services (AWS)"
+        />
+        <img
+          style="margin: 10px; min-width: 10px; height: 3vh"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
+          title="Firebase"
         />
       </div>
     </div>
