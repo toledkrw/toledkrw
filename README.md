@@ -90,8 +90,8 @@
         />
         <img
           style="margin: 10px; min-width: 10px; height: 3vh"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-          title="C++"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"
+          title="C"
         />
         <img
           style="margin: 10px; min-width: 10px; height: 3vh"
