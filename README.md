@@ -418,6 +418,6 @@
 
 <div align="right">
 
-![Profile views](https://gpvc.arturio.dev/toledkrw)
+![Profile views](https://komarev.com/ghpvc/?username=toledkrw)
 
 </div>
