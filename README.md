@@ -322,12 +322,12 @@
         />
         <img
           style="margin: 10px; min-width: 10px; height: 3vh"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
           title="ReactJS"
         />
         <img
           style="margin: 10px; min-width: 10px; height: 3vh"
-          src="https://camo.githubusercontent.com/9a45407f0a2a0c52f76b9458728049eca3ddb60ecec92a43f8cd2af93d253940/68747470733a2f2f7061676570726f2e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30332f72656163742d6e61746976652d6c6f676f2d333234783337352e706e67"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
           title="React Native"
         />
       </div>
@@ -413,6 +413,45 @@
         </div>
       </div>
     </div>
+    <!--  -->
+    <div>
+      <h4>Gaming Development</h4>
+      <div
+        style=
+          "
+          display: flex;
+          flex-direction: row;
+          flex-wrap: wrap;
+          justify-content: start;
+          margin: 5px;
+          "
+      >
+      </div>
+      <div>
+        <div style="margin-left: 20px">
+          <h5>Frameworks</h5>
+          <img
+            style="margin: 10px; min-width: 10px; height: 3vh"
+            src="https://static-00.iconduck.com/assets.00/gdevelop-icon-2048x1640-7y5aemvt.png"
+            title="GDev5"
+          />
+          <img
+            style="margin: 10px; min-width: 10px; height: 3vh"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"
+            title="Godot"
+          />
+        </div>
+        <div style="margin-left: 20px">
+          <h5>Tools</h5>
+          <img
+            style="margin: 10px; min-width: 10px; height: 3vh"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1200px-Logo_Aseprite.svg.png"
+            title="Aseprite"
+          />
+        </div>
+      </div>
+    </div>
+      
   </div>
 </div>
 
