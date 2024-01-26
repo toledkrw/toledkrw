@@ -415,7 +415,7 @@
     </div>
     <!--  -->
     <div>
-      <h4>Gaming Development</h4>
+      <h4>Game Development</h4>
       <div
         style=
           "
