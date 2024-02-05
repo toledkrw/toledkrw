@@ -29,7 +29,7 @@
     <img 
       width="41%" 
       height="195px" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=toledkrw&layout=compact&hide_border=true&title_color=f6019d&text_color=2de2e6&bg_color=0d1117" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=toledkrw&layout=compact&hide_border=true&title_color=f6019d&text_color=2de2e6&bg_color=0d1117&langs_count=16" 
       alt="Toledo's most used languages."
     />
 
