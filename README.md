@@ -452,10 +452,10 @@
       </div>
     </div>  
   </div>
+  <img
+      src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:2de2e6,100:f6019d"
+    />
 </div>
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=toledkrw"/>
 </div>
-  <img
-      src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:2de2e6,100:f6019d"
-    />
