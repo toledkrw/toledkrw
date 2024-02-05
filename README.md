@@ -5,7 +5,6 @@
     flex-direction: column;
     align-items: center;
     width: 100%;
-    max-width: 1000px;
   "
 >
   <div>
@@ -23,15 +22,15 @@
         src="https://github-readme-stats.vercel.app/api?username=toledkrw&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"
         alt="Toledo's GitHub stats."
         padding="10px"
-        width="auto"
-        height="150vh"
+        width="49%"
+        height="195px"
       />
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=toledkrw&layout=compact&langs_count=16&theme=vision-friendly-dark"
         alt="Toledo's most used languages."
         padding="10px"
-        width="auto"
-        height="150vh"
+        width="49%"
+        height="195px"
       />
   </div>
   <!--  -->
