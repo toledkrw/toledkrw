@@ -7,6 +7,9 @@
     width: 100%;
   "
 >
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2de2e6,100:f6019d"
+  />
   <div>
     <h1 style="font-size: 3vw">Hello! Pleased to meet you, my name is Toledo!</h1>
     <p>
@@ -17,21 +20,19 @@
   <!--  -->
   
   <div align="center">
-      <img
-        id="stats"
-        src="https://github-readme-stats.vercel.app/api?username=toledkrw&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"
-        alt="Toledo's GitHub stats."
-        padding="10px"
-        width="49%"
-        height="195px"
-      />
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=toledkrw&layout=compact&langs_count=16&theme=vision-friendly-dark"
-        alt="Toledo's most used languages."
-        padding="10px"
-        width="49%"
-        height="195px"
-      />
+    <img 
+      width="49%" 
+      height="195px" 
+      src="https://github-readme-stats.vercel.app/api?username=toledkrw&show_icons=true&count_private=true&hide_border=true&title_color=f6019d&icon_color=9700cc&text_color=2de2e6&bg_color=0d1117" 
+      alt="Toledo's github stats."
+    /> 
+    <img 
+      width="41%" 
+      height="195px" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=toledkrw&layout=compact&hide_border=true&title_color=f6019d&text_color=2de2e6&bg_color=0d1117" 
+      alt="Toledo's most used languages."
+    />
+
   </div>
   <!--  -->
 
@@ -449,13 +450,12 @@
           />
         </div>
       </div>
-    </div>
-      
+    </div>  
   </div>
 </div>
-
 <div align="right">
-
-![Profile views](https://komarev.com/ghpvc/?username=toledkrw)
-
+  <img src="https://komarev.com/ghpvc/?username=toledkrw"/>
 </div>
+  <img
+      src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:2de2e6,100:f6019d"
+    />
