@@ -211,7 +211,7 @@
         />
         <img
           style="margin: 10px; min-width: 10px; height: 3vh"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
           title="Amazon Web Services (AWS)"
         />
         <img
@@ -345,7 +345,7 @@
         />
         <img
           style="margin: 10px; min-width: 10px; height: 3vh"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
           title="NestJS"
         />
         <img
