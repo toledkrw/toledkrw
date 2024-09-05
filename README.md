@@ -66,7 +66,7 @@
 
   <div id="tech-stack">
     <h2>Tech Stack</h2>
-    <p> I Decided to remove my tech stack from here. I was getting too big, too many icons to maintain. I prefer making something different soon.</p>
+    <p> I Decided to remove my tech stack from here. It was getting too big, too many icons to maintain. I prefer making something different soon.</p>
   </div>
 
   <!--  -->
